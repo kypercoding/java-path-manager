@@ -6,12 +6,11 @@ The Java Path Manager is a small program (primarily intended for Linux machines)
 
 ## Installation and Compilation
 
-To use this program, the user **must** have the following installed:
+An executable JAR should already be provided in the "Releases" section of the repository. For this, the user only needs to have the following installed:
 * Java
-* Maven
 * Redis
 
-After this, the user must perform the following steps to generate an executable JAR:
+Those who wish to generate a JAR locally must also have Maven installed. For these users, the following steps can be performed to generate an executable JAR:
 
 ```shell
 git clone URL
